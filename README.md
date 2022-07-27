@@ -20,9 +20,9 @@ At Turner & Townsend, we prefer solutions which are explicit over implicit, disc
 and which are correctly tested given their size. All of these require python as it is the language we
 use most often here.
 
-To be clear, we would **love** to see how you have tested your code.
+We do require the solution to be submitted along with tests, the testing approach can be any of your choice.
 
-To submit a solution, email us a zip of your code repository containing your solution, along with
+To submit a solution, email us a zip of your code repository containing your solution and tests, along with
 instructions on how to run it.
 
 Thanks!
