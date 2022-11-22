@@ -14,7 +14,8 @@ We value your time and don't want to waste it.
 
 The problems are divided on complexity, from low to spicy. Please choose a problem which you feel you
 will have time to properly solve and which gives you the most opportunity to demonstrate your programming
-skills. Consider the seniority of the role in the decision of which problem to tackle.
+skills. Consider the seniority of the role in the decision of which problem to tackle. You need to solve
+only one problem.
 
 At Turner & Townsend, we prefer solutions which are explicit over implicit, discoverable over performant,
 and which are correctly tested given their size. All of these require python as it is the language we
